@@ -1,0 +1,7 @@
+- Naughty Icons is a professional entity associated with the Naughty icons blockchain game and Naughty Icons NFT project.
+- April 5,2022: We are a team of 3 devs currently seeking assistance in blockchain game 
+- Needed services: framework development, design, accessibility, ERC-721 connection and compatibility, mobile device compatibility, security, and ongoing functionality. 
+- The team is small and requiring: consultation, training, networking, expert opinion.
+- We are hiring a veteran game developer as a core and consistent team member for ongoing projects in an "ever evolving" "feature rich" blockchain game. 
+- Please email for inquiry or reach out via discord.
+- Stay Naughty.
